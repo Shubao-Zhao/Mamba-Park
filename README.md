@@ -6,5 +6,6 @@ Date|Method|Conference|Paper Title|Code
 24.03.04|[MiM-ISTD](https://arxiv.org/abs/2403.02148)|Arxiv|MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection|[MiM-ISTD](https://github.com/txchen-USTC/MiM-ISTD)
 24.03.03|[HiddenMambaAttn](https://arxiv.org/abs/2403.01590)|Arxiv|The Hidden Attention of Mamba Models|[HiddenMambaAttn](https://github.com/AmeenAli/HiddenMambaAttn)
 24.03.01|[PCM](https://arxiv.org/abs/2403.00762)|Arxiv|Point Could Mamba: Point Cloud Learning via State Space Model|[PCM](https://github.com/zhang-tao-whu/PCM)
+24.02.23|[MambaIR](https://arxiv.org/pdf/2402.15648.pdf)|Arxiv|MambaIR: A Simple Baseline for Image Restoration with State-Space Model|[PCM]( https://github.com/csguoh/MambaIR)
 
 
